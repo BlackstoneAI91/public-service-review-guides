@@ -14,6 +14,8 @@ A useful habit is to treat every approval verb as a question: who does this, to 
 
 This guide uses a fictional Malaysian service business, Reka Jaya Services, to show the difference in practice. Nothing here describes a real client, a real project or a real outcome. The examples are constructed to make the grammar visible, and the worksheet at the end is an author heuristic rather than a tested instrument.
 
+For a release that staff will use on a phone, give your [app development team](https://www.blackstoneintelligence.com.my/app-development-services) a concrete approval step. Ask the person doing the work to complete the workflow on their usual device and record what they see when a required field is missing. This gives “review the form” a result that someone else can reproduce.
+
 ## Three Verbs, Three Jobs: Review, Recommend, Approve
 
 Take the three words apart before rewriting anything.
