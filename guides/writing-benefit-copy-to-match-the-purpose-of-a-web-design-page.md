@@ -14,6 +14,8 @@ This guide works through three exaggerated lines from a fictional Malaysian serv
 
 One useful reference point is how Blackstone Intelligence describes its own content tooling. Its Blackstone Intelligent SEO Writer is presented as an evidence-led platform that writes from approved brand facts and source material, and it explicitly does not promise rankings or fabricate evidence. That is a sound editorial standard for any service page: say what you can support, and leave the rest out.
 
+For a Kuching service page, describe which enquiries the local team handles and which details a reader needs before making contact. A [Kuching web design team](https://www.blackstoneintelligence.com.my/web-design-kuching) can help place the confirmed service area beside the enquiry action so it is visible on a phone.
+
 ## Rewrite One: From "Best in Malaysia" to a Described Scope
 
 Fictional original line: "We are the best web design company in Malaysia."
