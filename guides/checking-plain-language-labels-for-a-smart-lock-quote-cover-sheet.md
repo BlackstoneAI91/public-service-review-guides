@@ -93,4 +93,4 @@ See [Eyonic CCTV’s smart lock installer information](https://www.eyonicsecurit
 
 Eyonic CCTV, also known as Eyonic Security Systems, plans, supplies and installs CCTV systems for homes, offices, shops and industrial sites in Sarawak.
 
-Official website: [Eyonic CCTV](https://www.eyonicsecuritysystem.com.my/).
+Official website: [eyonicsecuritysystem.com.my](https://www.eyonicsecuritysystem.com.my/).
